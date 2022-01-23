@@ -1,7 +1,9 @@
 site_name: Dokumentasi eKV
+site_description: Laman Dokumentasi bagi eKV
 nav:
     - Laman Utama: index.md
-    - Pengguna: pengguna.md
+    - Fungsi: features/index.md
+    - Penyumbang: contributors.md
 theme:
   name: material
   palette:
@@ -12,11 +14,18 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.sections
     - toc.integrate
     - navigation.top
     - search.highlight
     - search.share
 plugins:
   - search
+markdown_extensions:
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tablesort.js
 copyright: Copyright &copy; 2021 - 2022 eKV Contributors
