@@ -1,4 +1,22 @@
-site_name: eKV Documentation
+site_name: Dokumentasi eKV
 nav:
-    - Home: index.md
-theme: readthedocs
+    - Laman Utama: index.md
+    - Pengguna: pengguna.md
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: red
+  logo: assets/img/logo.png
+  favicon: assets/img/logo.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.highlight
+    - search.share
+plugins:
+  - search
+copyright: Copyright &copy; 2021 - 2022 eKV Contributors
