@@ -17,6 +17,15 @@
         "ideas",
         "maintenance"
       ]
+    },
+    {
+      "login": "amihadi",
+      "name": "Ami Hadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95136371?v=4",
+      "profile": "https://github.com/amihadi",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
