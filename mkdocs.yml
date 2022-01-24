@@ -3,6 +3,7 @@ site_description: Laman Dokumentasi bagi eKV
 nav:
     - Laman Utama: index.md
     - Fungsi: features/index.md
+    - Versi: versions/index.md
     - Penyumbang: contributors.md
 theme:
   name: material
