@@ -1,7 +1,7 @@
 Terdapat beberapa fungsi yang telah dibangunkan dan juga masih dalam proses perancangan dan pembangunan.
 Tiada sebarang jangka masa atau *roadmap* yang disediakan bagi setiap fungsi.
 Fungsi-fungsi ini akan dibangunkan apabila penyelenggara mempunyai masa untuk membangunkannya.
-Bagaimanapun, jika akan mahu membantu dalam pembangun dan penambahbaikan sistem ini, sebarang sumbangan dari segi idea dan juga kepakaran amat dialu-alukan.
+Bagaimanapun, jika anda mahu membantu dalam pembangun dan penambahbaikan sistem ini, sebarang sumbangan dari segi idea dan juga kepakaran amat dialu-alukan.
 
 ## Perancangan Fungsi
 
